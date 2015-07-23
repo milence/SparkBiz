@@ -2,7 +2,7 @@
 session_start();
 
 require("../../site_includes/php/constants.php");
-
+//comment
 require("../../site_includes/php/log_to_database.php");
 
 //SQLinject zastita
